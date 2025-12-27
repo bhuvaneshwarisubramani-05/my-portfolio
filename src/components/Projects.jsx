@@ -2,19 +2,19 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Waste Management Solution",
+    title: "EcoCare – Waste Management Solution",
     desc: "Smart platform for efficient waste tracking and community-driven cleanliness.",
-    github: "https://github.com/yourrepo",
+    github: "https://github.com/Ganga9115/Waste-management",
   },
   {
     title: "AgentLend – AI Loan Processing",
     desc: "Agentic AI system for automated loan verification and approvals.",
-    github: "https://github.com/yourrepo",
+    github: "https://github.com/bhuvaneshwarisubramani-05/AgentLend",
   },
   {
     title: "Enliven – Personalized Learning",
     desc: "Adaptive learning platform focused on personalized education paths.",
-    github: "https://github.com/yourrepo",
+    github: "https://github.com/Agila-A/Enliven",
   },
 ];
 
